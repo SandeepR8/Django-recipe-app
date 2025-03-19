@@ -17,9 +17,8 @@ A simple Django-based web application that allows users to add, store, and searc
 
 ## 📌 Setup Instructions  
 Follow these steps to run the project locally:  
-
-1️⃣ Clone the Repository  
 ```sh
+1️⃣ Clone the Repository  
 git clone https://github.com/SandeepR8/django-recipe-app.git
 cd django-recipe-app
 2️⃣ Create a Virtual Environment
