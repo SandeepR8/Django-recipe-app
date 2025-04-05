@@ -12,8 +12,7 @@ A simple Django-based web application that allows users to add, store, and searc
 ## 🛠️ Technologies Used  
 - Python & Django  
 - HTML, CSS (for UI)  
-- SQLite (default database)  
-- Bootstrap (for styling)  
+- MySQL (installed using pip)  
 
 ## 📌 Setup Instructions  
 Follow these steps to run the project locally:  
@@ -32,6 +31,12 @@ pip install -r requirements.txt
 4️⃣ Apply Migrations
 python manage.py migrate
 
-5️⃣ Run the Development Server
+5️⃣ Install MySQL cleint 
+pip install mysqlclient
+
+6️⃣ Run the Development Server
 python manage.py runserver
+
+7️⃣ Install Pillow(image processing)
+python -m pip install pillow
 
